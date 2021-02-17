@@ -1,7 +1,7 @@
 
 # Starter Web Repo
 
-Even newer thing. 
+Even newer thing! 
 
 This repository is for showing how Git and GitHub work
 
